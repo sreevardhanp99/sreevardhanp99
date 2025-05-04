@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sree Vardhan.
+## Hi there 👋 I'm Sree Vardhan
 
 - 🔭 I’m currently working on developing machine learning and deep learning models, including a Brain Tumor Detection system using CNN.
 - 🌱 I’m currently learning advanced data science techniques, model deployment, and cloud integration with tools like Google Cloud Platform and Docker.
