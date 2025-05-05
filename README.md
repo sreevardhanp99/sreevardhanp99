@@ -1,6 +1,5 @@
-## Hi there 👋 I'm Sree Vardhan
-
-- 🔭 I’m currently working on developing machine learning and deep learning models, including a Brain Tumor Detection system using CNN.
+<!-- - 🔭 I’m currently working on developing machine learning and deep learning models, including a Brain Tumor Detection system using CNN. 
+- 🔭 I’m currently working on developing machine learning and deep learning models.
 - 🌱 I’m currently learning advanced data science techniques, model deployment, and cloud integration with tools like Google Cloud Platform and Docker.
 - 👯 I’m looking to collaborate on open-source projects related to AI in healthcare, predictive analytics, and automation tools.
 - 🤔 I’m looking for help with optimizing deep learning models and integrating ML systems with web applications.
@@ -8,7 +7,20 @@
 - 📫 How to reach me: sreevardhan.p99@gmail.com or [LinkedIn](https://www.linkedin.com/in/sreevardhanp/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always eager to learn new technologies, take on challenging projects, and explore how AI can be used for social good.
+-->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/raw/main/Farha%20Kousar%20(2).png" alt="GitHub Profile Banner">
 
+## Hi there 👋 I'm Sree Vardhan
+
+- 💻 My technical skills include proficiency in programming languages like C, C++, Java, and Python.
+- 🌐 I have experience with version control using Git and GitHub.
+- 🛠️ I enjoy collaborating as an open-source contributor.
+- 🚀 Continuously improving my programming and development skills
+- 📊 I'm currently learning data science with Python.
+- 📚 My hobby is learning new things and staying curious.
+- ⚡ I'm always eager to learn new technologies, take on challenging projects, and explore how AI can be used for social good
+- 📫 Reach me at sreevardhan0219@gmail.com or [LinkedIn](https://www.linkedin.com/in/sreevardhanp/)
 
 
 # 💻 Tech Stack:
