@@ -9,7 +9,6 @@
 - ⚡ Fun fact: I'm always eager to learn new technologies, take on challenging projects, and explore how AI can be used for social good.
 -->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/raw/main/Farha%20Kousar%20(2).png" alt="GitHub Profile Banner">
 
 ## Hi there 👋 I'm Sree Vardhan
 
