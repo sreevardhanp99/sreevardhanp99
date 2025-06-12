@@ -20,6 +20,19 @@
 - 📚 My hobby is learning new things and staying curious.
 - ⚡ I'm always eager to learn new technologies, take on challenging projects, and explore how AI can be used for social good
 - 📫 Reach me at sreevardhan0219@gmail.com or [LinkedIn](https://www.linkedin.com/in/sreevardhanp/)
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sreevardhanp" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreevardhanp" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/sreevardhanp/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sreevardhanp" height="30" width="40" />
+  </a>
+  <a href="mailto:sreevardhan0219@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sreevardhan0219@gmail.com" height="30" width="40" />
+  </a>
+</p>
+
 
 
 # 💻 Tech Stack:
